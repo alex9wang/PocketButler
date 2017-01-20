@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.d9277f18" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PocketButler\PocketButler\Pages\Venue\VenueTypeSliderPage.cs">
+    <Files>
+      <File FileName="PocketButler\PocketButler\Pages\Favorite\FavoritePage.cs" Line="4" Column="4" />
+      <File FileName="PocketButler\PocketButler\Services\PaymentService.cs" Line="9" Column="9" />
+      <File FileName="PocketButler\PocketButler\Pages\Venue\VenueCustomizePage.cs" Line="36" Column="36" />
+      <File FileName="PocketButler\PocketButler\Pages\Order\OrderPage.cs" Line="4" Column="4" />
+      <File FileName="PocketButler\PocketButler\Pages\BasePage.cs" Line="9" Column="9" />
+      <File FileName="PocketButler\PocketButler\Pages\Venue\VenueItemPage.cs" Line="4" Column="4" />
+      <File FileName="PocketButler\PocketButler\Pages\Venue\VenueListPage.cs" Line="4" Column="4" />
+      <File FileName="PocketButler\PocketButler\Pages\Venue\VenueTypeSliderPage.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
